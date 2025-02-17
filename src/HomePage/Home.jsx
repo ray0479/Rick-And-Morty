@@ -21,7 +21,7 @@ export default function Home() {
             className="homepage-logo"
           />
           <Link to="/SearchPage" className="start-button">
-            Enter the Multiverse
+            Enter the Multive
           </Link>
           <Chat/>
         </main>
